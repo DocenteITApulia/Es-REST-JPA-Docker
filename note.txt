@@ -1,0 +1,10 @@
+per l'avvio è necessario:
+- eseguire il docker-compose up
+- collegarsi su localhost:5050
+- autenticarsi e creare un server chiamato postgres ( e mettendo postgres quasi ovunque)
+
+(solo il pezzo relativo al caricamento di postgres su docker)
+https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5
+
+https://github.com/amigoscode/jdbc/blob/main/docker-compose.yaml
+https://www.youtube.com/watch?v=CJjHdchLY9Y)
